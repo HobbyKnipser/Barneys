@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace Barneys
 {
-    static class Program
+    static class Barneys
     {
         /// <summary>
         /// Der Haupteinstiegspunkt für die Anwendung.
